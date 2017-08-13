@@ -1,4 +1,3 @@
----
 
 **Vehicle Detection Project**
 
@@ -20,7 +19,6 @@ The goals / steps of this project are the following:
 ####2. HOG: feature extraction
 ####3. Seach vehicles: using sliding windows
 
----
 ###Writeup / README
 
 ###1. Data Exploration
