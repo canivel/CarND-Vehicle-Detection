@@ -1,5 +1,3 @@
----
-
 **Vehicle Detection Project**
 
 The goals / steps of this project are the following:
@@ -10,7 +8,7 @@ The goals / steps of this project are the following:
 * Implement a sliding-window technique and use your trained classifier to search for vehicles in images.
 * Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
 * Estimate a bounding box for vehicles detected.
-
+* all the necessary files to create the pickles can be found at https://github.com/udacity/CarND-Vehicle-Detection
 [//]: # (Image References)
 [video1]: ./project_video.mp4
 
@@ -20,7 +18,7 @@ The goals / steps of this project are the following:
 ####2. HOG: feature extraction
 ####3. Seach vehicles: using sliding windows
 
----
+
 ###Writeup / README
 
 ###1. Data Exploration
